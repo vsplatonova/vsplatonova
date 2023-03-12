@@ -17,10 +17,11 @@
 	### Language/Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title="java" width="60" height="60"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="java" width="60" height="60"/>&nbsp;
+	<img src="https://img.icons8.com/ios/50/null/maven-ios.png" width="60" height="60"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" title="confluence" width="60" height="60"/>&nbsp;
 	<img src="https://img.icons8.com/color/48/null/intellij-idea.png" width="60" height="60"/>&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="60" height="60"/>&nbsp;
-	<img src="https://img.icons8.com/ios/50/null/maven-ios.png" width="60" height="60"/>&nbsp;
+	
     
 📌Имею высшее образование по специальности  финансы и кредит.<br>
 📌В 2022 успешно  окончила курсы повышения квалификации по специальности "Тестирование По" от образовательного портала gb.ru<br>
