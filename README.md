@@ -15,7 +15,7 @@
 - 📝Могу влиять на качество продукта
 - 📌Проактивна
  -📌Не боюсь новых и сложных задач
-- 📌  Upgrading my skills in automation
+- 📌  Upgrading my skills in test automation
 - 📫 Reach me by [email](mailto:vs_platonova@vk.com)<br>
 	<br>
 	<br>
