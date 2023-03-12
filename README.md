@@ -14,9 +14,8 @@
 - 🌱 Manual/Automation 
 - 📝Могу влиять на качество продукта
 - 📌Проактивна
--📌Не боюсь новых и сложных задач
-- 📌 Upgrading my skills
-- ⛳️Имею стремление  развиваться в сторону автоматизации тестирования
+ -📌Не боюсь новых и сложных задач
+- 📌  Upgrading my skills in automation
 - 📫 Reach me by [email](mailto:vs_platonova@vk.com)<br>
 	<br>
 	<br>
