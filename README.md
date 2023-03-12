@@ -16,7 +16,9 @@
 - 📫 Reach me by [email](mailto:vs_platonova@vk.com)
 	### Language/Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title="java" width="60" height="60"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" width="60" height="60/>&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="java" width="60" height="60"/>&nbsp;
+
+
           
 	
 	
